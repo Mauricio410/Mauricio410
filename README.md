@@ -3,21 +3,21 @@
 
 - 🌱 I’m currently learning **about the world of Data.**
 
-- 👨‍💻 All of my projects are available at [JE JE "not yet available"](JE JE "not yet available")
+- 👨‍💻 All of my projects are available at JE JE "not yet available"
 
-- 📝 I regularly write articles on [military, AI, python, data analysis, politics, etc.](military, AI, python, data analysis, politics, etc.)
+- 📝 I regularly write articles on AI, python, military, data analysis, politics, etc.
 
 - 💬 Ask me about **Python, JS, Django, Tkinter, etc.**
 
 - 📫 How to reach me **mauricioromero410@gmail.com**
 
-- 📄 Know about my experiences [Administrative Manager - FullStack Developer - Data Analyst](Administrative Manager - FullStack Developer - Data Analyst)
+- 📄 Know about my experiences [Administrative Manager - FullStack Developer - Data Analyst]
 
 - ⚡ Fun fact **I am passionate about sports 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mauricio-jesus-romero-zoppi-05774b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauricio-jesus-romero-zoppi-05774b227/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mauricio-jesus-romero-zoppi-05774b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauricio-jesus-romero-zoppi-05774b227/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauricio410&show_icons=true&locale=en" alt="mauricio410" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio410&" alt="mauricio410" /></p>
+
+
+<h3 align="center">https://rahuldkjain.github.io/gh-profile-readme-generator/</h3>
