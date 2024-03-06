@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **about the world of Data.**
 
-- 👨‍💻 All of my projects are available at JE JE "not yet available"
+- 👨‍💻 All of my projects are available at JE JE **"not yet available"**
 
-- 📝 I regularly write articles on AI, python, military, data analysis, politics, etc.
+- 📝 I regularly write articles on **AI, python, military, data analysis, politics, etc.**
 
 - 💬 Ask me about **Python, JS, Django, Tkinter, etc.**
 
 - 📫 How to reach me **mauricioromero410@gmail.com**
 
-- 📄 Know about my experiences [Administrative Manager - FullStack Developer - Data Analyst]
+- 📄 Know about my experiences **Administrative Manager - FullStack Developer - Data Analyst**
 
 - ⚡ Fun fact **I am passionate about sports 😎**
 
@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio410&" alt="mauricio410" /></p>
 
 
-<h3 align="center">https://rahuldkjain.github.io/gh-profile-readme-generator/</h3>
+<h4 align="center">https://rahuldkjain.github.io/gh-profile-readme-generator/</h4>
