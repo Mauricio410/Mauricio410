@@ -28,6 +28,3 @@
 <div>&nbsp;<img text-align="center" src="https://github-readme-stats.vercel.app/api?username=mauricio410&show_icons=true&locale=en" alt="mauricio410" /></div>
 
 <divp><img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio410&" alt="mauricio410" /></div>
-
-
-<h4 align="center">https://rahuldkjain.github.io/gh-profile-readme-generator/</h4>
