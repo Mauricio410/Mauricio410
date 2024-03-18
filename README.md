@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about the world of Data.**
 
-- 👨‍💻 All of my projects are available at JE JE **"not yet available"**
+- 👨‍💻 All of my projects are available at **https://mauricioromeroporfolio.netlify.app/**
 
 - 📝 I regularly write articles on **AI, python, military, data analysis, politics, etc.**
 
