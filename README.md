@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mauricioromero410@gmail.com**
 
-- 📄 Know about my experiences **Software Developer - IA Developer**
+- 📄 Know about my experiences **Software Developer - IA Engineer**
 
 - ⚡ Fun fact **I am passionate about sports 😎**
 
