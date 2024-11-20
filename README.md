@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Romero</h1>
-<h3 align="center">A passionate Software Developer from Argentina.</h3>
-
-- 🌱 I’m currently learning **about the world of Data.**
-
-##- 👨‍💻 All of my projects are available at **https://mauricioromeroporfolio.netlify.app/**
-
-- 📝 I regularly write articles on **AI, python, military, data analysis, politics, etc.**
-
-- 💬 Ask me about **Python, IA, Cybersegurity.**
-
-- 📫 How to reach me **mauricioromero410@gmail.com**
-
-- 📄 Know about my experiences **Software Developer - IA Engineer**
-
-- ⚡ Fun fact **I am passionate about sports 😎**
+<h3 align="center">Software Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
