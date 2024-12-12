@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Romero</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer and Machine Learning Developer</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mauricio-jesus-romero-zoppi-05774b227/" target="_blank">
